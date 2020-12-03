@@ -1,0 +1,65 @@
+{
+    "id": "1",
+    "name": "The Met collection",
+    "type": "museum",
+    "collection": [
+        {
+            "id": "10",
+            "name": "The American wing",
+            "type": "department",
+            "collection": [
+                {
+                    "id": "101",
+                    "name": "English Vase",                    
+                    "type": "potery",
+                    "collection": []
+                },
+                {
+                    "id": "102",
+                    "name": "Native american vase",
+                    "type": "potery",
+                    "collection": []
+                },
+                {
+                    "id": "103",
+                    "name": "American painting",
+                    "type": "painting",
+                    "collection": []
+                },
+                {
+                    "id": "104",
+                    "name": "French vase",
+                    "type": "potery",
+                    "collection": []
+                }
+                
+            ]
+        },
+        {
+            "id": "20",
+            "name": "The European wing",
+            "type": "department",
+            "collection": [
+                {
+                    "id": "201",
+                    "name": "English VASE",                    
+                    "type": "potery",
+                    "collection": []
+                },
+                {
+                    "id": "202",
+                    "name": "English Painting",
+                    "type": "painting",
+                    "collection": []
+                },
+                {
+                    "id": "203",
+                    "name": "French painting",
+                    "type": "painting",
+                    "collection": []
+                }
+                
+            ]
+        }
+    ]
+}
