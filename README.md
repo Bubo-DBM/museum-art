@@ -1,2 +1,3 @@
 # museum-art
-Angular app for preview data based on tree structure
+
+[Checkout Wiki for more details.](https://github.com/Bubo-DBM/museum-art/wiki)
